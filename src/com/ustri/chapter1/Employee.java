@@ -1,4 +1,4 @@
-package com.ustri.chapter123;
+package com.ustri.chapter1;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;
